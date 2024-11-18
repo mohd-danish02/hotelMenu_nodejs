@@ -52,7 +52,7 @@ const userSchema = new mongoose.Schema(
   }
 );
 
-// model
+// this is a model for menu items created by danish khan okk
 const User = mongoose.model("User", userSchema);
 
 module.exports = User;
