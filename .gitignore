@@ -1,0 +1,4 @@
+#ignore git modules 
+node_modules/
+
+#other entries 
