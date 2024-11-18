@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+// this comment is added only for git checking purpose
 const menuItemSchema = new mongoose.Schema(
   {
     name: {
